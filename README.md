@@ -1,2 +1,4 @@
 # First-rebo
-my first repo
+my first repo on github 
+
+I love programming
